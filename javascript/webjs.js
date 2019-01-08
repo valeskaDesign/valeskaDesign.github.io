@@ -1,4 +1,4 @@
-
+window.onload = function(){
 var slideIndex = 1;
 showSlides(slideIndex);
 
@@ -29,13 +29,13 @@ function showSlides(n) {
 }
 
 
-  var photo = document.querySelector(.plav1).onclick=function(){
+  var photo = document.querySelector(".plav1").onclick=function(){
     
    this.style.width="200px"; 
     
   }
   
-  
+  };
   
   
   
