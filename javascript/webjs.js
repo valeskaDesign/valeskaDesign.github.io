@@ -29,8 +29,8 @@ function showSlides(n) {
 }
 window.onload= function(){
 
-  document.querySelector(".plav1").onclick = function(){
-    this.style.width = "200px";
+   var plav= document.getElementById("plav1").onclick = function(){
+    plav.style.width = "200px";
     
     
   }
