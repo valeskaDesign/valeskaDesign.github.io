@@ -29,7 +29,11 @@ function showSlides(n) {
 }
 
 
-  
+  document.querySelector(".plav1").onclick = function(){
+    this.style.width = "200px";
+    
+    
+  }
   
   
   
