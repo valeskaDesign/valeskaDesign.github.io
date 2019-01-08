@@ -136,17 +136,17 @@
 
 <div class="container">
 
-<div class="plav1">
+<div class="plav1" aria-haspopup="true">
 </div>
 
 
  
-<div class="plav2">
+<div class="plav2" aria-haspopup="true">
 </div>
 
 
 
-<div class="plav3">
+<div class="plav3" aria-haspopup="true">
 </div>
 
 </div>
