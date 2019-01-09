@@ -34,6 +34,12 @@ window.onload= function(){
     
     
   }
+   
+   function cli(){
+     plav.style.width = "200px";
+      }
+  
+  addEventListener("click",cli);
 };
   
   
